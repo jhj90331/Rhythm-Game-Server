@@ -1,0 +1,2 @@
+D2019-05-08T03:38:22.238	DBAgent* connect try: GameDB, GameServer, testServer
+D2019-05-08T03:38:22.243	DBAgent* [GameDB]DB try connection provider = SQLNCLI10

@@ -1,0 +1,230 @@
+D2019-05-08T03:38:22.995	System* create thread : id[0x9B7C] name[Server], pool size[1]
+D2019-05-08T03:38:22.995	Server* create thread : id[0x5610] name[ContentsProcess], pool size[2]
+D2019-05-08T03:38:22.997	Server* create thread : id[0x2454] name[ContentsProcess], pool size[3]
+D2019-05-08T03:38:22.997	Server* create thread : id[0x3E18] name[ContentsProcess], pool size[4]
+D2019-05-08T03:38:22.997	Server* create thread : id[0x6120] name[ContentsProcess], pool size[5]
+D2019-05-08T03:38:22.998	Server* create thread : id[0x5390] name[ContentsProcess], pool size[6]
+D2019-05-08T03:38:22.998	Server# Initialze network base
+D2019-05-08T03:38:22.999	Server* create thread : id[0x284C] name[Terminal], pool size[7]
+D2019-05-08T03:38:22.999	Server* create thread : id[0x3DC8] name[Terminal], pool size[8]
+D2019-05-08T03:38:22.000	Server* create thread : id[0x4584] name[Terminal], pool size[9]
+D2019-05-08T03:38:22.000	Server### Terminal set ###
+D2019-05-08T03:38:22.000	Server* create thread : id[0x2998] name[Task], pool size[10]
+D2019-05-08T03:38:22.001	Server* create thread : id[0x47C8] name[Task], pool size[11]
+D2019-05-08T03:38:22.002	Server* create thread : id[0x4C2C] name[Task], pool size[12]
+D2019-05-08T03:38:22.002	Server* create thread : id[0x8968] name[Task], pool size[13]
+D2019-05-08T03:38:22.002	Server* create thread : id[0x2FB0] name[Task], pool size[14]
+D2019-05-08T03:38:22.002	Server* task thread, [5] maked
+D2019-05-08T03:38:22.002	Server* IO worker thread count : 5
+D2019-05-08T03:38:22.002	Server### Chatting Server start!!! ###
+D2019-05-08T03:38:22.037	Terminal* [LoginServer]terminal connect [223.194.100.66]:[9000] ready
+D2019-05-08T03:38:22.037	Terminal* [GameServer]terminal connect [223.194.100.66]:[9300] ready
+D2019-05-08T03:38:22.044	Server* server listen socket created, ip: 223.194.100.66, port: 9200
+D2019-05-08T03:38:22.045	Server* create thread : id[0x1C1C] name[IOCPServer], pool size[15]
+D2019-05-08T03:38:22.045	Server* create thread : id[0x3E7C] name[IOCPServer], pool size[16]
+D2019-05-08T03:38:22.045	Server* create thread : id[0x1B0C] name[IOCPServer], pool size[17]
+D2019-05-08T03:38:22.046	Server* create thread : id[0x5E24] name[IOCPServer], pool size[18]
+D2019-05-08T03:38:22.046	Server* create thread : id[0x71D8] name[IOCPServer], pool size[19]
+D2019-05-08T03:38:22.046	Server* create thread : id[0x8A88] name[IOCPServer], pool size[20]
+D2019-05-08T03:38:22.377	IOCPServer* client accecpt from [223.194.100.66]
+D2019-05-08T03:38:22.379	ContentsProcess*** [130] packet run ***
+D2019-05-08T03:38:22.381	ContentsProcess* [223.194.100.66] Terminal accepted.
+D2019-05-08T03:38:22.460	IOCPServer* client accecpt from [223.194.100.66]
+D2019-05-08T03:38:22.462	ContentsProcess*** [130] packet run ***
+D2019-05-08T03:38:22.463	ContentsProcess* [223.194.100.66] Terminal accepted.
+D2019-05-08T03:38:23.045	Terminal! terminal socket connect fail
+D2019-05-08T03:38:23.045	Terminal* try connect [DBAgent] server[223.194.100.66]:[9100]... [0]
+D2019-05-08T03:38:24.677	Task### cpu usage : 0.00%, memory usage : 5734400Byte
+D2019-05-08T03:38:24.795	IOCPServer* client accecpt from [223.194.100.66]
+D2019-05-08T03:38:24.797	ContentsProcess*** [130] packet run ***
+D2019-05-08T03:38:24.798	ContentsProcess* [223.194.100.66] Terminal accepted.
+D2019-05-08T03:38:24.048	Terminal* [DBAgent]terminal connect [223.194.100.66]:[9100] ready
+D2019-05-08T03:38:26.677	Task### cpu usage : 0.39%, memory usage : 5836800Byte
+D2019-05-08T03:38:28.677	Task### cpu usage : 0.24%, memory usage : 5857280Byte
+D2019-05-08T03:38:30.677	Task### cpu usage : 0.33%, memory usage : 5865472Byte
+D2019-05-08T03:38:32.677	Task### cpu usage : 0.27%, memory usage : 5865472Byte
+D2019-05-08T03:38:34.677	Task### cpu usage : 0.21%, memory usage : 5865472Byte
+D2019-05-08T03:38:36.677	Task### cpu usage : 0.20%, memory usage : 5865472Byte
+D2019-05-08T03:38:38.677	Task### cpu usage : 0.17%, memory usage : 5865472Byte
+D2019-05-08T03:38:40.676	Task### cpu usage : 0.15%, memory usage : 5865472Byte
+D2019-05-08T03:38:42.677	Task### cpu usage : 0.14%, memory usage : 5865472Byte
+D2019-05-08T03:38:44.678	Task### cpu usage : 0.13%, memory usage : 5865472Byte
+D2019-05-08T03:38:46.678	Task### cpu usage : 0.14%, memory usage : 5865472Byte
+D2019-05-08T03:38:47.517	ContentsProcess*** [137] packet run ***
+D2019-05-08T03:38:47.518	ContentsProcess[3] : clientId_ [1] : oidAccoundId
+D2019-05-08T03:38:47.576	ContentsProcess*** [139] packet run ***
+D2019-05-08T03:38:47.576	ContentsProcess* [test1] name load from db
+D2019-05-08T03:38:48.678	Task### cpu usage : 0.17%, memory usage : 5918720Byte
+D2019-05-08T03:38:48.714	IOCPServer* client accecpt from [223.194.100.64]
+D2019-05-08T03:38:48.716	ContentsProcess*** [141] packet run ***
+D2019-05-08T03:38:48.716	ContentsProcess* user [test1] created from [2]
+D2019-05-08T03:38:50.677	Task### cpu usage : 0.16%, memory usage : 5955584Byte
+D2019-05-08T03:38:52.676	Task### cpu usage : 0.15%, memory usage : 5955584Byte
+D2019-05-08T03:38:53.123	ContentsProcess*** [137] packet run ***
+D2019-05-08T03:38:53.123	ContentsProcess[4] : clientId_ [2] : oidAccoundId
+D2019-05-08T03:38:53.144	ContentsProcess*** [139] packet run ***
+D2019-05-08T03:38:53.144	ContentsProcess* [test2] name load from db
+D2019-05-08T03:38:53.268	IOCPServer* client accecpt from [223.194.100.64]
+D2019-05-08T03:38:53.269	ContentsProcess*** [141] packet run ***
+D2019-05-08T03:38:53.270	ContentsProcess* user [test2] created from [2]
+D2019-05-08T03:38:54.677	Task### cpu usage : 0.14%, memory usage : 5951488Byte
+D2019-05-08T03:38:56.678	Task### cpu usage : 0.13%, memory usage : 5951488Byte
+D2019-05-08T03:38:57.095	ContentsProcess*** [142] packet run ***
+D2019-05-08T03:38:57.095	ContentsProcess* send message test2, -> : sdfff
+D2019-05-08T03:38:57.097	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:38:57.099	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:38:58.678	Task### cpu usage : 0.12%, memory usage : 5951488Byte
+D2019-05-08T03:39:00.677	Task### cpu usage : 0.11%, memory usage : 5951488Byte
+D2019-05-08T03:39:02.678	Task### cpu usage : 0.11%, memory usage : 5951488Byte
+D2019-05-08T03:39:03.048	ContentsProcess*** [142] packet run ***
+D2019-05-08T03:39:03.048	ContentsProcess* send message test1, -> : hello
+D2019-05-08T03:39:03.051	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:39:03.052	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:39:04.678	Task### cpu usage : 0.10%, memory usage : 5951488Byte
+D2019-05-08T03:39:05.937	ContentsProcess*** [142] packet run ***
+D2019-05-08T03:39:05.938	ContentsProcess* send message test1, -> : hello
+D2019-05-08T03:39:05.940	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:39:05.940	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:39:06.677	Task### cpu usage : 0.10%, memory usage : 5963776Byte
+D2019-05-08T03:39:07.833	ContentsProcess*** [142] packet run ***
+D2019-05-08T03:39:07.833	ContentsProcess* send message test2, -> : sdfff
+D2019-05-08T03:39:07.835	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:39:07.835	ContentsProcessSession Send Size : 35 
+
+D2019-05-08T03:39:08.678	Task### cpu usage : 0.10%, memory usage : 5984256Byte
+D2019-05-08T03:39:10.677	Task### cpu usage : 0.09%, memory usage : 5984256Byte
+D2019-05-08T03:39:12.678	Task### cpu usage : 0.09%, memory usage : 5984256Byte
+D2019-05-08T03:39:14.678	Task### cpu usage : 0.09%, memory usage : 5984256Byte
+D2019-05-08T03:39:16.678	Task### cpu usage : 0.08%, memory usage : 5984256Byte
+D2019-05-08T03:39:18.677	Task### cpu usage : 0.08%, memory usage : 5984256Byte
+D2019-05-08T03:39:20.677	Task### cpu usage : 0.08%, memory usage : 5984256Byte
+D2019-05-08T03:39:22.678	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:24.676	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:26.677	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:28.678	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:30.678	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:32.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:39:34.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:39:36.678	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:38.678	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:40.677	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:42.678	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:44.678	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:39:46.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:39:48.678	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:39:50.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:39:52.677	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:54.677	Task### cpu usage : 0.07%, memory usage : 5984256Byte
+D2019-05-08T03:39:56.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:39:58.678	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:00.678	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:02.678	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:04.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:06.678	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:08.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:10.676	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:12.677	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:14.678	Task### cpu usage : 0.06%, memory usage : 5984256Byte
+D2019-05-08T03:40:16.678	Task### cpu usage : 0.05%, memory usage : 5984256Byte
+D2019-05-08T03:40:18.678	Task### cpu usage : 0.05%, memory usage : 5984256Byte
+D2019-05-08T03:40:20.677	Task### cpu usage : 0.05%, memory usage : 5984256Byte
+D2019-05-08T03:40:22.676	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:24.678	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:26.676	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:28.678	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:30.677	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:32.677	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:34.677	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:36.677	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:38.678	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:40:40.678	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:42.677	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:44.678	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:40:46.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:40:48.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:40:50.678	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:40:52.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:40:54.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:40:56.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:40:58.676	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:00.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:02.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:04.676	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:05.434	ContentsProcess*** [142] packet run ***
+D2019-05-08T03:41:05.435	ContentsProcess* send message test2, -> : aaaa
+D2019-05-08T03:41:05.436	ContentsProcessSession Send Size : 34 
+
+D2019-05-08T03:41:05.437	ContentsProcessSession Send Size : 34 
+
+D2019-05-08T03:41:06.678	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:08.678	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:10.678	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:10.210	ContentsProcess*** [142] packet run ***
+D2019-05-08T03:41:10.210	ContentsProcess* send message test1, -> : dfff
+D2019-05-08T03:41:10.213	ContentsProcessSession Send Size : 34 
+
+D2019-05-08T03:41:10.214	ContentsProcessSession Send Size : 34 
+
+D2019-05-08T03:41:12.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:14.678	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:16.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:18.678	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:20.677	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:41:22.676	Task### cpu usage : 0.05%, memory usage : 6004736Byte
+D2019-05-08T03:41:24.677	Task### cpu usage : 0.06%, memory usage : 6004736Byte
+D2019-05-08T03:41:24.408	ContentsProcess*** [137] packet run ***
+D2019-05-08T03:41:24.409	ContentsProcess[5] : clientId_ [1] : oidAccoundId
+D2019-05-08T03:41:24.439	ContentsProcess*** [139] packet run ***
+D2019-05-08T03:41:24.439	ContentsProcess* [test1] name load from db
+D2019-05-08T03:41:24.595	IOCPServer* client accecpt from [223.194.100.64]
+D2019-05-08T03:41:24.595	ContentsProcess*** [141] packet run ***
+D2019-05-08T03:41:24.596	ContentsProcess* user [test1] created from [2]
+D2019-05-08T03:41:26.677	Task### cpu usage : 0.06%, memory usage : 6041600Byte
+D2019-05-08T03:41:28.677	Task### cpu usage : 0.06%, memory usage : 6041600Byte
+D2019-05-08T03:41:30.678	Task### cpu usage : 0.06%, memory usage : 6041600Byte
+D2019-05-08T03:41:32.677	Task### cpu usage : 0.06%, memory usage : 6041600Byte
+D2019-05-08T03:41:34.678	Task### cpu usage : 0.05%, memory usage : 6041600Byte
+D2019-05-08T03:41:36.678	Task### cpu usage : 0.05%, memory usage : 6041600Byte
+D2019-05-08T03:41:38.677	Task### cpu usage : 0.05%, memory usage : 6041600Byte
+D2019-05-08T03:41:40.676	Task### cpu usage : 0.05%, memory usage : 6041600Byte
+D2019-05-08T03:41:42.678	Task### cpu usage : 0.05%, memory usage : 6041600Byte
+D2019-05-08T03:41:43.574	IOCPServer* detected close by client [223.194.100.64]
+D2019-05-08T03:41:44.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:41:46.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:41:48.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:41:50.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:41:52.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:41:54.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:41:56.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:41:58.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:00.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:02.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:04.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:06.676	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:08.676	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:10.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:12.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:13.684	IOCPServer* detected close by client [223.194.100.64]
+D2019-05-08T03:42:14.678	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:16.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:18.677	Task### cpu usage : 0.05%, memory usage : 6111232Byte
+D2019-05-08T03:42:18.364	IOCPServer* detected close by client [223.194.100.64]
+D2019-05-08T03:42:20.677	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:22.678	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:24.677	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:26.677	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:28.677	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:30.677	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:32.678	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:34.676	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:36.677	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:38.676	Task### cpu usage : 0.04%, memory usage : 6086656Byte
+D2019-05-08T03:42:38.500	IOCPServer* detected close by client [223.194.100.66]
+D2019-05-08T03:42:38.506	Terminal! termnal [DBAgent] disconnected !
